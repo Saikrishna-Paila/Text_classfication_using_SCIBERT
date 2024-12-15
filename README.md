@@ -96,8 +96,5 @@ The `MultiHeadClassifier` model:
 - **Model Checkpoints:** Saved in `checkpoints/best_model.pth`.
 - **Submission File:** Test predictions are saved in `Test_submission_netid.csv`.
 
-## Notes
-- The function `optimize_thresholds` is neither defined nor used in this script.
-- All preprocessing, modeling, and training components are implemented in a modular and clear manner.
 
 
